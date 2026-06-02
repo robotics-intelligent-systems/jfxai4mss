@@ -1,0 +1,27 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram name="clustering-based-multi-path-algorithm" id="FM37f3kDL0kdMrN8TTzg">
+    <mxGraphModel dx="1111" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_fbYiEFTkJTIaeN4Ycro-1" value="Clustering-BasedRay-Tracing Algorithm" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="350" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="_fbYiEFTkJTIaeN4Ycro-2" value="//Notation&lt;br&gt;n represents normals;&lt;br&gt;p represents positions;&lt;br&gt;r represents reflection vector;&lt;br&gt;v represents impact normal;&lt;br&gt;idx represents r,ϕ,θ bin index" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="_fbYiEFTkJTIaeN4Ycro-1">
+          <mxGeometry x="60" y="60" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_fbYiEFTkJTIaeN4Ycro-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="_fbYiEFTkJTIaeN4Ycro-1">
+          <mxGeometry x="130" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fbYiEFTkJTIaeN4Ycro-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="_fbYiEFTkJTIaeN4Ycro-3" parent="_fbYiEFTkJTIaeN4Ycro-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_fbYiEFTkJTIaeN4Ycro-5" value="F ≜ Leaves found in field of view" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="_fbYiEFTkJTIaeN4Ycro-1">
+          <mxGeometry x="45" y="300" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
