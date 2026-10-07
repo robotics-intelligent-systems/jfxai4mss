@@ -23,6 +23,9 @@ research, prototyping, and experimental validation.
 
 ## Table of Contents
 
+- [Documentation Index](docs/README.md)
+- [Merchant Seafarer Certification](docs/regulations/merchant-seafarer-certification.md)
+
 - [Project Vision](#project-vision)
 - [Description and Context](#description-and-context)
 - [Objectives](#objectives)
