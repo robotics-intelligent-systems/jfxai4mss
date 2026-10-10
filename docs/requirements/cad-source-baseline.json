@@ -1,0 +1,9 @@
+{
+  "repository": "robotics-intelligent-systems/jfxai4mss",
+  "source_commit": "bc95c9a125bbfa07cfd4268eaa07ee04ccbf10c6",
+  "sources_sha256": {
+    "amphibious-rv-concept.jpg": "64d64ca591ebd19d634e60ad8e33e59bb30930c27e4168ff06635bc93821c244",
+    "river-cruiser-ship-concept.jpg": "367829b96b52ce08a4520eac86ba472215a3607c4a794252f4026bd9dd3d2769",
+    "solar-powered-amphibious-catamaran-concept.jpg": "ce46e8dfa2c0b38d4a6e28b759ec1ebaef6ac07275d95b330b2a09d10280e7c4"
+  }
+}

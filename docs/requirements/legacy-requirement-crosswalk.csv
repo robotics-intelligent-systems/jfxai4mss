@@ -1,0 +1,115 @@
+legacy_diagram,legacy_id,new_allocation,migration_status
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-01,CAT-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-02,CAT-08,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-03,CAT-08,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-04,COM-06,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-05,COM-06,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-06,CAT-08,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-07,CAT-03,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-08,COM-08,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-09,CAT-05,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-10,COM-04,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-11,COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,FR-12,COM-03,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-01,CAT-06 / COM-08,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-02,CAT-06,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-03,CAT-07,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-04,CAT-07,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-05,CAT-06,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-06,CAT-06,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-07,COM-08,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-08,CAT-08 / COM-08,Split: common energy priority retained; land/hydrogen-production priority deferred
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,HYB-09,COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,IF-01,COM-04 / COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,IF-02,CAT-08,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,IF-03,COM-04 / COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,IF-04,COM-04 / COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,IF-05,COM-04 / COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,IF-06,COM-04 / COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-01,COM-06,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-02,COM-06,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-03,COM-07,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-04,CAT-01 / COM-07,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-05,COM-06 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-06,CAT-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-07,CAT-08,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NAV-08,COM-01 / CAT-01,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-01,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-02,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-03,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-04,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-05,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-06,CAT-08 / COM-09,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-07,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-08,COM-10,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-09,COM-03,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-10,COM-02,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-11,COM-04 / COM-06 / COM-07 / COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Amphibious_Catamaran_Hybrid_H2_Renewable_Requirements_v2.drawio,NFR-12,COM-12 / baseline gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-001,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-002,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-003,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-004,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-005,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-006,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,BASE-007,Baseline exit gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,CYB-001,COM-10,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,CYB-002,COM-10,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,CYB-003,COM-10,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,DT-001,COM-01 / COM-02 / COM-11,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,DT-002,COM-01 / COM-02 / COM-11,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,DT-003,COM-01 / COM-02 / COM-11,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,DT-004,COM-01 / COM-02 / COM-11,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,EDGE-001,COM-03 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,EDGE-002,COM-03 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,ENE-001,RV-02 / RV-03 / COM-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,ENE-002,RV-02 / RV-03 / COM-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,ENE-003,RV-02 / RV-03 / COM-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,ENE-004,RV-02 / RV-03 / COM-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,FIR-001,COM-09,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,HAB-001,RV-01 / RV-06,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,HAB-002,RV-01 / RV-06,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,HMI-001,COM-03,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,INT-001,COM-04 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,INT-002,COM-04 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,INT-003,COM-04 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,INT-004,COM-04 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,INT-005,COM-04 / RV-08,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,IP-001,COM-04 / repository IP policy,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,IP-002,COM-04 / repository IP policy,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,IP-003,COM-04 / repository IP policy,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,MAR-001,RV-04 / COM-06,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,MAR-002,RV-04 / COM-06,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,MEC-001,COM-06 / COM-07,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,MEC-002,COM-06 / COM-07,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,MEC-003,COM-06 / COM-07,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,OPS-001,RV-09 / modes,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,OPS-002,RV-09 / modes,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,PRP-001,RV-04 / COM-03,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,PRP-002,RV-04 / COM-03,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,PRV-001,COM-10 / RV-08,Consolidated: COM-10 retains privacy policy and verification; RV-08 retains authorized access
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,ROAD-001,RV-09,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,SAF-001,COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,SAF-002,COM-09 / COM-12,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,STK-001,Scope / proposed owner roles,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,STK-002,Scope / proposed owner roles,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,STK-003,Scope / proposed owner roles,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,STK-004,Scope / proposed owner roles,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,SYS-001,RV-09 / COM-04,Deferred: requires dedicated variant design; not a baseline obligation
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,SYS-002,RV-09 / COM-04,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,SYS-003,RV-09 / COM-04,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,SYS-004,RV-09 / COM-04,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-001,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-002,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-003,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-004,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-005,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-006,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-007,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,TBD-008,Budgets / decision backlog,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,VER-001,Traceability register / verification gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,VER-002,Traceability register / verification gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,VER-003,Traceability register / verification gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,VER-004,Traceability register / verification gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,VER-005,Traceability register / verification gates,Consolidated / review external references before migration
+OpenTwin_Modular_Amphibious_RV_High_Level_Requirements.drawio,WTR-001,RV-05,Consolidated / review external references before migration
