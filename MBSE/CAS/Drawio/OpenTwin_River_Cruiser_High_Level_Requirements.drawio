@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mxfile host="app.diagrams.net" agent="jfxai4mss requirements refactor" version="24.7.17" type="device">
-  <diagram id="CAT-1" name="01 — Scope and CAD baseline">
+  <diagram id="RIV-1" name="01 — Scope and CAD baseline">
     <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="OpenTwin Marine — Modular Catamaran Requirements&lt;br&gt;&lt;b&gt;01 — Scope and CAD baseline&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="title" value="OpenTwin Marine — River Cruiser Requirements&lt;br&gt;&lt;b&gt;01 — Scope and CAD baseline&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="20" width="1540" height="72" />
         </mxCell>
         <mxCell id="footer" value="CONCEPT / PROPOSED • CAD illustration ≠ validated geometry • SHALL requirements need approved acceptance budgets • I: inspection · A: analysis · D: demonstration · T: test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="940" width="1540" height="42" />
         </mxCell>
-        <mxCell id="source" value="&lt;b&gt;CAD source&lt;/b&gt;&lt;br&gt;MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;&lt;br&gt;Illustrated callouts are concept evidence; dimensions and performance require design/analysis." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="source" value="&lt;b&gt;CAD source&lt;/b&gt;&lt;br&gt;MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;&lt;br&gt;Illustrated callouts are concept evidence; dimensions and performance require design/analysis." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="scope" value="&lt;b&gt;Baseline interpretation&lt;/b&gt;&lt;br&gt;Twin hulls, cabin, modular propulsors, energy modules and mission interfaces are illustrated. Solar appears in the filename only; landing gear is absent. Hydrogen/hybrid is an annotated option, not a selected turbine or electrolyzer." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="scope" value="&lt;b&gt;Baseline interpretation&lt;/b&gt;&lt;br&gt;River hull, multiple passenger decks, navigation, modular energy and mission payloads are illustrated. No amphibious land mobility or solar array is established." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="120" width="500" height="235" />
         </mxCell>
         <mxCell id="status" value="&lt;b&gt;Requirements status&lt;/b&gt;&lt;br&gt;Proposed high-level requirements. Named owners are proposed engineering roles, not assigned people. Acceptance budgets and dates require project assignment. No completion/certification claim." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
@@ -32,71 +32,68 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="CAT-2" name="02 — High-level requirements 1–9">
+  <diagram id="RIV-2" name="02 — High-level requirements 1–8">
     <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="OpenTwin Marine — Modular Catamaran Requirements&lt;br&gt;&lt;b&gt;02 — High-level requirements 1–9&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="title" value="OpenTwin Marine — River Cruiser Requirements&lt;br&gt;&lt;b&gt;02 — High-level requirements 1–8&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="20" width="1540" height="72" />
         </mxCell>
         <mxCell id="footer" value="CONCEPT / PROPOSED • CAD illustration ≠ validated geometry • SHALL requirements need approved acceptance budgets • I: inspection · A: analysis · D: demonstration · T: test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="940" width="1540" height="42" />
         </mxCell>
-        <mxCell id="CAT-01" value="&lt;b&gt;CAT-01 — Twin-hull platform&lt;/b&gt;&lt;br&gt;SHALL provide two demi-hulls, bridge deck and cabin/mission mounting structure with controlled module mass and CG.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/I&lt;/b&gt;&lt;br&gt;Verify the arrangement against the twin-hull CAD callout and analyze all module loading cases." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-01" value="&lt;b&gt;RIV-01 — River hull and decks&lt;/b&gt;&lt;br&gt;SHALL provide the illustrated river-vessel hull and multiple accommodation decks with controlled loading, access and structural load paths.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/I&lt;/b&gt;&lt;br&gt;Inspect a deck arrangement and analyze hull/deck loads and stability for each approved passenger/module configuration." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-02" value="&lt;b&gt;CAT-02 — Modular propulsion&lt;/b&gt;&lt;br&gt;SHALL provide replaceable marine electric propulsion modules with command, feedback, fault, isolation and maintenance interfaces.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: T/I&lt;/b&gt;&lt;br&gt;Demonstrate steering/thrust control, safe stop and module interface inspection using the selected propulsor configuration." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-02" value="&lt;b&gt;RIV-02 — Passenger operation&lt;/b&gt;&lt;br&gt;SHALL define cabins/common areas, configurable passenger modules, occupancy, accessible boarding and emergency egress.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: I/D&lt;/b&gt;&lt;br&gt;Demonstrate boarding and egress against an approved arrangement and occupancy plan." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-03" value="&lt;b&gt;CAT-03 — Mission modules&lt;/b&gt;&lt;br&gt;SHALL define installation and removal interfaces for passenger, cargo, research, surveillance, environmental and emergency modules.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: I/D&lt;/b&gt;&lt;br&gt;Inspect interface contracts and demonstrate at least one module change; validate mass/CG, retention, power/data and safety per variant." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-03" value="&lt;b&gt;RIV-03 — Energy and drive&lt;/b&gt;&lt;br&gt;SHALL define modular battery banks and an electric base drive with separately assessed hybrid/hydrogen alternatives.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/T&lt;/b&gt;&lt;br&gt;Analyze propulsion and hotel demand for a river mission; demonstrate isolation and reserve control for the selected configuration." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="1070" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-04" value="&lt;b&gt;CAT-04 — Passenger accommodation&lt;/b&gt;&lt;br&gt;SHALL provide configurable passenger spaces with access, seating, safety provisions and approved occupancy.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: I/D&lt;/b&gt;&lt;br&gt;Review a passenger arrangement and demonstrate boarding/egress for the approved occupancy and accessibility criteria." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-04" value="&lt;b&gt;RIV-04 — River navigation&lt;/b&gt;&lt;br&gt;SHALL provide local navigation/HMI and supervised autonomy interfaces using GNSS/AIS, selected perception and environmental sensors.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: T&lt;/b&gt;&lt;br&gt;Replay current, shallow-water, docking and sensor-loss cases within the approved envelope and verify manual takeover." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-05" value="&lt;b&gt;CAT-05 — Perception and helm&lt;/b&gt;&lt;br&gt;SHALL integrate GNSS/AIS, attitude and environmental sensing, with selected radar/camera/LiDAR interfaces and a local helm/HMI.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: T&lt;/b&gt;&lt;br&gt;Replay sensor loss and obstacle scenarios; verify displayed validity, operator authority and the approved degraded response." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-05" value="&lt;b&gt;RIV-05 — Interchangeable missions&lt;/b&gt;&lt;br&gt;SHALL define passenger, cargo, research, surveillance, environmental and emergency module interfaces with retained loading records.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: I/D&lt;/b&gt;&lt;br&gt;Review mounting, handling, power/data and mass/CG contracts; demonstrate one approved module substitution." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-06" value="&lt;b&gt;CAT-06 — Energy variants&lt;/b&gt;&lt;br&gt;SHALL define a battery-electric base and separately selectable hybrid/hydrogen energy modules with protected mounting and distribution.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/I&lt;/b&gt;&lt;br&gt;Review base and candidate variant diagrams; quantify energy, mass/CG and hazard impact before accepting a variant." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-06" value="&lt;b&gt;RIV-06 — ROV/AUV option&lt;/b&gt;&lt;br&gt;SHALL define an optional ROV/AUV launch, recovery and data interface before enabling research deployment.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/D&lt;/b&gt;&lt;br&gt;Analyze handling loads and exclusion zones; demonstrate recovery and emergency interruption for the selected equipment." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="1070" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-07" value="&lt;b&gt;CAT-07 — Renewable option&lt;/b&gt;&lt;br&gt;SHALL treat photovoltaic generation as a candidate option until array area, installation and electrical interfaces are designed.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/I&lt;/b&gt;&lt;br&gt;Resolve the filename-only solar assumption with an approved roof/deck arrangement, yield/shading analysis and protected conversion design." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-07" value="&lt;b&gt;RIV-07 — River environment&lt;/b&gt;&lt;br&gt;SHALL assess draft/under-keel clearance, current, wind, bank interaction and wave effects for the intended waterway and loading cases.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/T&lt;/b&gt;&lt;br&gt;Produce an approved waterway envelope and compare maneuvering predictions with staged controlled trials." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="640" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-08" value="&lt;b&gt;CAT-08 — Amphibious option&lt;/b&gt;&lt;br&gt;SHALL keep land mobility, landing gear and water-land transitions outside the illustrated baseline until a dedicated design is approved.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: I&lt;/b&gt;&lt;br&gt;Inspect scope and baseline: no unapproved wheel/gear implementation or land-performance claim; variant approval requires geometry and load analysis." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-08" value="&lt;b&gt;RIV-08 — Hotel loads&lt;/b&gt;&lt;br&gt;SHALL include accommodation HVAC, lighting, water/waste and passenger services in power, safety and maintenance budgets.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/I&lt;/b&gt;&lt;br&gt;Review service arrangements and calculate hotel/essential-load budgets for the approved occupancy." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="640" width="500" height="235" />
-        </mxCell>
-        <mxCell id="CAT-09" value="&lt;b&gt;CAT-09 — Mission handling&lt;/b&gt;&lt;br&gt;SHALL define safe cargo/module handling and ground/sea vehicle interfaces before enabling automated loading.&lt;br&gt;&lt;br&gt;&lt;b&gt;Verification: A/D&lt;/b&gt;&lt;br&gt;Review retention, load transfer and operator exclusion zones; demonstrate the approved handling sequence with fault interruption." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="1070" y="640" width="500" height="235" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="CAT-3" name="04 — Logical architecture">
+  <diagram id="RIV-3" name="04 — Logical architecture">
     <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="OpenTwin Marine — Modular Catamaran Requirements&lt;br&gt;&lt;b&gt;04 — Logical architecture&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="title" value="OpenTwin Marine — River Cruiser Requirements&lt;br&gt;&lt;b&gt;04 — Logical architecture&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="20" width="1540" height="72" />
         </mxCell>
         <mxCell id="footer" value="CONCEPT / PROPOSED • CAD illustration ≠ validated geometry • SHALL requirements need approved acceptance budgets • I: inspection · A: analysis · D: demonstration · T: test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="940" width="1540" height="42" />
         </mxCell>
-        <mxCell id="hull" value="&lt;b&gt;Hull / structure&lt;/b&gt;&lt;br&gt;Geometry, compartments, mass/CG, loading and hydrodynamics&lt;br&gt;&lt;br&gt;Design allocation: CAT-01, COM-06, COM-07" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="hull" value="&lt;b&gt;Hull / structure&lt;/b&gt;&lt;br&gt;Geometry, compartments, mass/CG, loading and hydrodynamics&lt;br&gt;&lt;br&gt;Design allocation: RIV-01, RIV-07, COM-06, COM-07" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="propulsion" value="&lt;b&gt;Marine propulsion&lt;/b&gt;&lt;br&gt;Replaceable drive, steering, isolation and condition feedback&lt;br&gt;&lt;br&gt;Design allocation: CAT-02" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="propulsion" value="&lt;b&gt;Marine propulsion&lt;/b&gt;&lt;br&gt;Replaceable drive, steering, isolation and condition feedback&lt;br&gt;&lt;br&gt;Design allocation: " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="energy" value="&lt;b&gt;Energy / utilities&lt;/b&gt;&lt;br&gt;Storage, conversion, protection, hotel loads and optional sources&lt;br&gt;&lt;br&gt;Design allocation: CAT-06, CAT-07, COM-08" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="energy" value="&lt;b&gt;Energy / utilities&lt;/b&gt;&lt;br&gt;Storage, conversion, protection, hotel loads and optional sources&lt;br&gt;&lt;br&gt;Design allocation: RIV-03, COM-08" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="1070" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="mission" value="&lt;b&gt;Mission / habitation&lt;/b&gt;&lt;br&gt;Module mounting, occupancy, handling and service access&lt;br&gt;&lt;br&gt;Design allocation: CAT-03, CAT-04, CAT-09" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="mission" value="&lt;b&gt;Mission / habitation&lt;/b&gt;&lt;br&gt;Module mounting, occupancy, handling and service access&lt;br&gt;&lt;br&gt;Design allocation: RIV-02, RIV-05, RIV-06, RIV-08" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="control" value="&lt;b&gt;Local navigation / safety&lt;/b&gt;&lt;br&gt;Sensors, HMI, operator authority, mode guards and safe stop&lt;br&gt;&lt;br&gt;Design allocation: CAT-05, COM-03, COM-09, COM-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="control" value="&lt;b&gt;Local navigation / safety&lt;/b&gt;&lt;br&gt;Sensors, HMI, operator authority, mode guards and safe stop&lt;br&gt;&lt;br&gt;Design allocation: RIV-04, COM-03, COM-09, COM-12" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="380" width="500" height="235" />
         </mxCell>
         <mxCell id="edge" value="&lt;b&gt;OpenTwin edge / gateway&lt;/b&gt;&lt;br&gt;Versioned state, buffering, authorized commands and diagnostics&lt;br&gt;&lt;br&gt;Design allocation: COM-02, COM-10, COM-11" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
@@ -105,7 +102,7 @@
         <mxCell id="simulation" value="&lt;b&gt;Models / cloud analytics&lt;/b&gt;&lt;br&gt;Modelica, hydrodynamics, co-simulation, replay and twin validation&lt;br&gt;&lt;br&gt;Design allocation: COM-05" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="640" width="500" height="235" />
         </mxCell>
-        <mxCell id="configuration" value="&lt;b&gt;Configuration baseline&lt;/b&gt;&lt;br&gt;CAD IDs, module inventory, budgets, interface contracts and evidence&lt;br&gt;&lt;br&gt;Design allocation: CAT-08, COM-01, COM-04" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="configuration" value="&lt;b&gt;Configuration baseline&lt;/b&gt;&lt;br&gt;CAD IDs, module inventory, budgets, interface contracts and evidence&lt;br&gt;&lt;br&gt;Design allocation: COM-01, COM-04" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="640" width="500" height="235" />
         </mxCell>
         <mxCell id="edge-0" value="protected power" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#64748b;fontSize=12;" edge="1" parent="1" source="energy" target="propulsion">
@@ -123,12 +120,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="CAT-4" name="05 — Interfaces and modes">
+  <diagram id="RIV-4" name="05 — Interfaces and modes">
     <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="OpenTwin Marine — Modular Catamaran Requirements&lt;br&gt;&lt;b&gt;05 — Interfaces and modes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="title" value="OpenTwin Marine — River Cruiser Requirements&lt;br&gt;&lt;b&gt;05 — Interfaces and modes&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="20" width="1540" height="72" />
         </mxCell>
         <mxCell id="footer" value="CONCEPT / PROPOSED • CAD illustration ≠ validated geometry • SHALL requirements need approved acceptance budgets • I: inspection · A: analysis · D: demonstration · T: test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
@@ -143,7 +140,7 @@
         <mxCell id="data" value="&lt;b&gt;Data / command contract&lt;/b&gt;&lt;br&gt;asset_id, configuration_id, mode, position/heading, energy, propulsion, water/environment, health/faults, timestamp, units, quality, source, model/software versions.&lt;br&gt;Commands: authority, allowed modes, acknowledgment and expiration." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="1070" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="modes" value="&lt;b&gt;Baseline modes&lt;/b&gt;&lt;br&gt;SAFE / ISOLATED&lt;br&gt;MANUAL WATER NAVIGATION&lt;br&gt;SUPERVISED WATER NAVIGATION&lt;br&gt;DOCKED / MODULE CHANGE&lt;br&gt;DEGRADED / RECOVERY&lt;br&gt;MAINTENANCE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="modes" value="&lt;b&gt;Baseline modes&lt;/b&gt;&lt;br&gt;SAFE / ISOLATED&lt;br&gt;MANUAL RIVER NAVIGATION&lt;br&gt;SUPERVISED RIVER NAVIGATION&lt;br&gt;DOCKED / BOARDING&lt;br&gt;MISSION HANDLING&lt;br&gt;DEGRADED / RECOVERY&lt;br&gt;MAINTENANCE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="380" width="500" height="235" />
         </mxCell>
         <mxCell id="guards" value="&lt;b&gt;Mode guards&lt;/b&gt;&lt;br&gt;Approve a guard/fault table covering personnel access, module retention, source isolation, sensor validity and operator authority. Faults inhibit affected actions and enter a defined recovery state. Maintenance/module changes require propulsion isolation." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
@@ -155,53 +152,50 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="CAT-5" name="06 — Traceability 1–9">
+  <diagram id="RIV-5" name="06 — Traceability 1–8">
     <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="OpenTwin Marine — Modular Catamaran Requirements&lt;br&gt;&lt;b&gt;06 — Traceability 1–9&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="title" value="OpenTwin Marine — River Cruiser Requirements&lt;br&gt;&lt;b&gt;06 — Traceability 1–8&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="20" width="1540" height="72" />
         </mxCell>
         <mxCell id="footer" value="CONCEPT / PROPOSED • CAD illustration ≠ validated geometry • SHALL requirements need approved acceptance budgets • I: inspection · A: analysis · D: demonstration · T: test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="940" width="1540" height="42" />
         </mxCell>
-        <mxCell id="CAT-01-trace" value="&lt;b&gt;CAT-01 → hull&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Naval architect&lt;br&gt;Method: A/I&lt;br&gt;Evidence: CAT-01-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-01-trace" value="&lt;b&gt;RIV-01 → hull&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Naval architect&lt;br&gt;Method: A/I&lt;br&gt;Evidence: RIV-01-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-02-trace" value="&lt;b&gt;CAT-02 → propulsion&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Propulsion engineer&lt;br&gt;Method: T/I&lt;br&gt;Evidence: CAT-02-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-02-trace" value="&lt;b&gt;RIV-02 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Human factors engineer&lt;br&gt;Method: I/D&lt;br&gt;Evidence: RIV-02-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-03-trace" value="&lt;b&gt;CAT-03 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Payload engineer&lt;br&gt;Method: I/D&lt;br&gt;Evidence: CAT-03-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-03-trace" value="&lt;b&gt;RIV-03 → energy&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Electrical engineer&lt;br&gt;Method: A/T&lt;br&gt;Evidence: RIV-03-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="1070" y="120" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-04-trace" value="&lt;b&gt;CAT-04 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Human factors engineer&lt;br&gt;Method: I/D&lt;br&gt;Evidence: CAT-04-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-04-trace" value="&lt;b&gt;RIV-04 → control&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Control engineer&lt;br&gt;Method: T&lt;br&gt;Evidence: RIV-04-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-05-trace" value="&lt;b&gt;CAT-05 → control&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Control engineer&lt;br&gt;Method: T&lt;br&gt;Evidence: CAT-05-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-05-trace" value="&lt;b&gt;RIV-05 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Payload engineer&lt;br&gt;Method: I/D&lt;br&gt;Evidence: RIV-05-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-06-trace" value="&lt;b&gt;CAT-06 → energy&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Electrical engineer&lt;br&gt;Method: A/I&lt;br&gt;Evidence: CAT-06-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-06-trace" value="&lt;b&gt;RIV-06 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Payload engineer&lt;br&gt;Method: A/D&lt;br&gt;Evidence: RIV-06-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="1070" y="380" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-07-trace" value="&lt;b&gt;CAT-07 → energy&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Electrical engineer&lt;br&gt;Method: A/I&lt;br&gt;Evidence: CAT-07-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-07-trace" value="&lt;b&gt;RIV-07 → hull&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Naval architect&lt;br&gt;Method: A/T&lt;br&gt;Evidence: RIV-07-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="640" width="500" height="235" />
         </mxCell>
-        <mxCell id="CAT-08-trace" value="&lt;b&gt;CAT-08 → configuration&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Systems engineer&lt;br&gt;Method: I&lt;br&gt;Evidence: CAT-08-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="RIV-08-trace" value="&lt;b&gt;RIV-08 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/river-cruiser-ship-concept.jpg&lt;br&gt;Proposed owner: Utilities engineer&lt;br&gt;Method: A/I&lt;br&gt;Evidence: RIV-08-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="550" y="640" width="500" height="235" />
-        </mxCell>
-        <mxCell id="CAT-09-trace" value="&lt;b&gt;CAT-09 → mission&lt;/b&gt;&lt;br&gt;CAD: MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg&lt;br&gt;Proposed owner: Payload engineer&lt;br&gt;Method: A/D&lt;br&gt;Evidence: CAT-09-EV (planned; not produced)&lt;br&gt;Status: proposed; acceptance budget approval pending." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
-          <mxGeometry as="geometry" x="1070" y="640" width="500" height="235" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="CAT-6" name="07 — Budgets and verification gates">
+  <diagram id="RIV-6" name="07 — Budgets and verification gates">
     <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="title" value="OpenTwin Marine — Modular Catamaran Requirements&lt;br&gt;&lt;b&gt;07 — Budgets and verification gates&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
+        <mxCell id="title" value="OpenTwin Marine — River Cruiser Requirements&lt;br&gt;&lt;b&gt;07 — Budgets and verification gates&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">
           <mxGeometry as="geometry" x="30" y="20" width="1540" height="72" />
         </mxCell>
         <mxCell id="footer" value="CONCEPT / PROPOSED • CAD illustration ≠ validated geometry • SHALL requirements need approved acceptance budgets • I: inspection · A: analysis · D: demonstration · T: test" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#64748b;fontFamily=Helvetica;fontSize=15;align=left;verticalAlign=top;spacing=14;" vertex="1" parent="1">

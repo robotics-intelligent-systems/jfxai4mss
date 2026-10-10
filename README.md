@@ -24,6 +24,7 @@ research, prototyping, and experimental validation.
 ## Table of Contents
 
 - [Documentation Index](docs/README.md)
+- [CAD-aligned high-level requirements](docs/requirements/cad-concept-requirements.md)
 - [Merchant Seafarer Certification](docs/regulations/merchant-seafarer-certification.md)
 
 - [Project Vision](#project-vision)

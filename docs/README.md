@@ -13,3 +13,7 @@ The [project overview](../README.md) describes the jfxai4mss marine systems simu
 [Migration register](MIGRATION-REGISTER.md): **1 plaintext source processed**. The source was translated into English Markdown and removed from the working branch; the Spanish original remains in Git history.
 
 The notes are reference documentation, not implemented certification services or evidence of operational compliance.
+
+## CAD-aligned requirements engineering
+
+[Concept baseline and diagram index](requirements/cad-concept-requirements.md): three CAD concepts, common marine requirements, per-asset specifications, acceptance criteria and a traceability register.
